@@ -30,7 +30,7 @@ public class Implement_Power_function {
 		// TODO Auto-generated method stub
 		if(b==0)
 		{
-			System.out.println(a%c);
+			System.out.println(result%c);
 			return;
 		}
 		
